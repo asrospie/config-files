@@ -3,6 +3,8 @@ theme = "dracula"
 [editor]
 line-number = "relative"
 mouse = true
+true-color = true
+bufferline = "always"
 
 [editor.cursor-shape]
 insert = "bar"
