@@ -34,3 +34,9 @@ indent = { tab-width = 4, unit = "    "}
 name = "astro"
 auto-format = true
 indent = { tab-width = 4, unit = "    "}
+
+
+[[language]]
+name = "ocaml"
+auto-format = true
+indent = { tab-width = 2, unit = "  "}
